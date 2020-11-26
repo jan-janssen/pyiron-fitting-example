@@ -10,7 +10,7 @@ To become familiar with recommend the first three exercises from the pyiron vide
 ## Step 2: 
 In this session we are going to use the DFT results calculated in the previous session to fit a Lennard Jones potential: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/pyiron-fitting-example/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/pyiron-fitting-example/HEAD?filepath=fit_lennard_jones.ipynb)
 
 ## Step 3: 
 After the potential is fitted we can compare it to other potentials. For example: 
